@@ -1,0 +1,5 @@
+#!/usr/local/bin/tcc -run
+#define FOR_ls
+#include "../main.c"
+#include "../lib/all.c"
+#include "../toys/posix/ls.c"
